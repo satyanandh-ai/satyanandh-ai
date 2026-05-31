@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Satya Anandh 👋
 
-<!--
-**satyanandh-ai/satyanandh-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AIML Student
 
-Here are some ideas to get you started:
+💻 Passionate about Artificial Intelligence, Machine Learning, Python, and Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects
+
+- Python AI Assistant
+- Portfolio Website
+
+## 🌱 Currently Learning
+
+- Python
+- Machine Learning
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Data Structures & Algorithms
+
+## 🎯 Goals
+
+- Build 5+ quality projects
+- Improve problem-solving skills
+- Learn Machine Learning deeply
+- Become an AI/ML Engineer
+
+## 🛠️ Skills
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/satyanandh-ai
